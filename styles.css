@@ -1,0 +1,59 @@
+a:hover {
+	text-decoration: underline;
+}
+
+a:visited {
+	color: blue;
+}
+
+body {
+	background-color: #94b8b8;
+	margin: 0 auto;
+	width: 50%;
+}
+
+.button {
+	background-color: #ffff99;
+	border: 1px solid;
+	border-radius: 5px;
+	float: right;
+	padding: 5px;
+}
+
+.button:hover{
+	background-color: #ffdb4d;
+	/*color: white;*/
+	cursor: pointer;
+	font-weight: bold;
+}
+
+div {
+	background-color: #fff;
+}
+
+h1 {
+	display: inline;
+}
+
+.heading {
+	//border-bottom: 2px #000 solid;
+	margin-bottom: 5px;
+}
+
+span {
+	float: right;
+}
+
+.title {
+	float: left;
+	font-size: 100px;
+}
+
+.tweet {
+	font-size: 20px;
+	margin: 10px;
+}
+
+.username {
+	text-decoration: none;
+}
